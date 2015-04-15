@@ -1,0 +1,80 @@
+
+.header img {
+  float: left;
+  width: 100px;
+  height: 100px;
+
+}
+
+.header h1 {
+  position: relative;
+  float:right;
+  color: white;
+
+}
+
+.header{
+	background: #DDA0DD;
+	padding-bottom:5.5em;
+}
+
+#nav li {
+	display: inline-block;	
+	background-color: white;
+	color:#DDA0DD;
+	padding: 7px;
+	width:225px;
+	height:20px;
+
+}
+
+#nav li a{
+	background-color: white;
+	color:#DDA0DD;
+}
+
+body{
+	background-color: grey;
+	font-family: arial black, gadget, sans-serif;
+	font-size: 18px;
+
+}
+
+
+#mainone {
+	font-size: 20px;
+	color:black;
+	opacity: 0.9;
+
+}
+
+#allmain{
+	width:1000px;
+	height: 600px;
+	background-image: url("http://cdn2.hubspot.net/hub/211508/file-557292171-jpg/images/charity.jpg");
+	background-repeat: no-repeat;
+	background-size: 100%;
+	opacity: 0.6;
+	margin-left: 7em;
+}
+
+footer {
+	clear: both;
+	background: #DDA0DD;
+	color:white;
+}
+
+#extralinks {
+	float:right;
+	line-height: 10px;
+	color:#DDA0DD;
+}
+
+.socialmedia a {
+	clear:both;
+	float:left;
+	position:fixed;
+
+}
+
+
